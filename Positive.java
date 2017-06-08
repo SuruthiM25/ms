@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Ps
+class Positive
 {
 public static void main(String args[])
 {
